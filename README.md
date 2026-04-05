@@ -1,5 +1,6 @@
 ## Hi there 👋
 <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Development-00582b?style=for-the-badge&logo=codesignal&logoColor=white" />
 
 <!--
 **Tuzakiz/Tuzakiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
