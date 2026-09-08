@@ -5,9 +5,9 @@
 
 </div>
   <div aligh="left">
-    <h6> Just trying to improve for now. </h6>
+    <h6><em> Just trying to improve for now. </em></h6>
   </div>
-### **Technical Stack**
+title Technical Stack
 <h4>| Some languages </h4> 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" title="Python" />
@@ -30,6 +30,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/h86A3TidMogYpX78fG/giphy.gif" width="100" /> 
 </div>
 
+<footer>
+  <ul>
+    <li>Test</li>  
+  </ul>
+</footer>
 
 <!--
 **Tuzakiz/Tuzakiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
