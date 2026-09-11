@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/OBtp1QjATpUAAAAM/vril-agartha.gif" width="200px" height="200px"># Welcome! I'm Tuzaki! 👋 
+<img src="https://media.tenor.com/OBtp1QjATpUAAAAM/vril-agartha.gif" width="20px" height="20px"># Welcome! I'm Tuzaki! 👋 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/119i1S6WbgWfS/giphy.gif" width="160" />
