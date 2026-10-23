@@ -31,7 +31,7 @@ title Technical Stack
 </div>
 
 <H1>DON'T EVER MESS WITH RUST </H1>
-<img src="[https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Fcrablang%2Fcrab&ved=0CBcQjRxqGAoTCJC9xpvuzpcDFQAAAAAdAAAAABC9Aw&opi=89978449](https://user-images.githubusercontent.com/8974888/231858967-7c37bf1e-335b-4f5a-9760-da97be9f54bb.png)" width="160"/>
+<img src="https://user-images.githubusercontent.com/8974888/231858967-7c37bf1e-335b-4f5a-9760-da97be9f54bb.png" width="160"/>
 <footer>
   <ul>
     <li>Test</li>  
