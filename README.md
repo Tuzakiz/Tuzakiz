@@ -17,6 +17,7 @@ title Technical Stack
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="35" title="VS Code" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="35" title="Figma" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" title="Git" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/119i1S6WbgWfS/giphy.gif" width="160"/>
 </div>
 <div><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/119i1S6WbgWfS/giphy.gif" width="160"/></div>
 
