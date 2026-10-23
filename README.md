@@ -17,9 +17,8 @@ title Technical Stack
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="35" title="VS Code" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="35" title="Figma" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" title="Git" />
-
 </div>
-<div><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif" width="160"/></div>
+<div><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif" width="200"/></div>
 
 ### 🛠️ Environments & Tools:
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notepad-767676?style=for-the-badge&logo=notepadplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Minecraft_Guides-62B471?style=for-the-badge&logo=minecraft&logoColor=white" /> (LOL)
@@ -31,6 +30,9 @@ title Technical Stack
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/h86A3TidMogYpX78fG/giphy.gif" width="100" /> 
 </div>
 
+<H1>DON'T EVER MESS WITH RUST </H1>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/119i1S6WbgWfS/giphy.gif](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Fcrablang%2Fcrab&ved=0CBcQjRxqGAoTCJC9xpvuzpcDFQAAAAAdAAAAABC9Aw&opi=89978449
+)" width="160"/>
 <footer>
   <ul>
     <li>Test</li>  
