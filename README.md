@@ -7,7 +7,7 @@
   <div aligh="left">
     <h6><em> Just trying to improve for now. </em></h6>
   </div>
-<H4> Technical Stack</H4>
+<H4>| Technical Stack</H4>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="35" title="VS Code" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="35" title="Figma" />
