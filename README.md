@@ -1,4 +1,4 @@
-<img width="500" height="205" alt="image" src="https://github.com/user-attachments/assets/144b92ae-2c7e-4c64-98e5-7d92c934b9ad" /><img src="https://media.tenor.com/OBtp1QjATpUAAAAM/vril-agartha.gif" width="25px" height="25px"> # Welcome! I'm Tuzaki! 👋 
+<!-- <img width="500" height="205" alt="image" src="https://github.com/user-attachments/assets/144b92ae-2c7e-4c64-98e5-7d92c934b9ad" /> --> <img src="https://media.tenor.com/OBtp1QjATpUAAAAM/vril-agartha.gif"  width="25px" height="25px"> # Welcome! I'm Tuzaki! 👋 
 <p style="font-size: 10px;">Content</p>
 <div align="center">
   <h1>WELCOME TO LARP BRADAR</h1>
