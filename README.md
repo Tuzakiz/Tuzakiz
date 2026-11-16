@@ -1,7 +1,8 @@
-<img src="https://media.tenor.com/OBtp1QjATpUAAAAM/vril-agartha.gif" width="25px" height="25px"> # Welcome! I'm Tuzaki! 👋 
+<img width="500" height="205" alt="image" src="https://github.com/user-attachments/assets/144b92ae-2c7e-4c64-98e5-7d92c934b9ad" /><img src="https://media.tenor.com/OBtp1QjATpUAAAAM/vril-agartha.gif" width="25px" height="25px"> # Welcome! I'm Tuzaki! 👋 
 <p style="font-size: 10px;">Content</p>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/119i1S6WbgWfS/giphy.gif" width="160" />
+  <h1>WELCOME TO LARP BRADAR</h1>
+  <img src="https://media1.tenor.com/m/DAyBkrGTR9sAAAAd/hans-landa-laughing.gif" width="160" />
 </div>
   <div aligh="left">
     <h6><em> Just trying to improve for now. </em></h6>
