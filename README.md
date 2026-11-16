@@ -2,7 +2,7 @@
 <p style="font-size: 10px;">Content</p>
 <div align="center">
   <h2>WELCOME TO LARP BRADAR</h2>
-  <img src="https://media1.tenor.com/m/DAyBkrGTR9sAAAAd/hans-landa-laughing.gif" width="300px" height="200px" />
+  <img src="https://media1.tenor.com/m/DAyBkrGTR9sAAAAd/hans-landa-laughing.gif" width="25px" height="25px" />
 </div>
   <div aligh="left">
     <h6><em> Just trying to improve for now. </em></h6>
